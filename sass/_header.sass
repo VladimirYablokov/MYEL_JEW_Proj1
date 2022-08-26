@@ -16,13 +16,12 @@
         color: #000000
 
 .links
-    border: 1px solid black
-
     display: flex
-    justify-content: space-around
+    justify-content: space-between
     flex-direction: row
     align-items: center
     height: 88px
+    padding: 0 30px
     // width: 1440px
 
     a
@@ -33,6 +32,15 @@
         line-height: 18px
         text-transform: uppercase
         color: #000000
+
+    .main-name
+        display: flex
+        justify-content: center
+        flex-direction: row
+        align-content: center
+
+        img
+            padding:  5px
         
     .languages
         display: inline-flex
@@ -56,6 +64,74 @@
             border-right: 1px solid black
             height: 20px
             margin: 0 5px
+
+.header-photos
+    display: flex
+    justify-content: space-between
+    height: 630px
+    // width: 1440px
+
+    .header-photo
+        display: flex
+        background-image: url("/Proj_1_MYEL_JEWELRY/media/header_photo2.png")
+        width: 485px
+        height: 630px
+        background-size: cover
+        background-repeat: no-repeat
+
+        >p
+            font-family: 'Roboto'
+            font-style: normal
+            font-weight: 400
+            font-size: 14px
+            line-height: 18px
+            text-transform: capitalize
+            color: #FFFFFF
+            padding-top: 590px
+            padding-left: 30px
+
+
+    .header-photo1
+        background-image: url("/Proj_1_MYEL_JEWELRY/media/header_photo1.png")
+        width: 485px
+        height: 630px
+        background-size: cover
+        background-repeat: no-repeat
+
+    .header-photo2
+        background-image: url("/Proj_1_MYEL_JEWELRY/media/header_photo.png")
+        width: 485px
+        height: 630px
+        background-size: cover
+        background-repeat: no-repeat
+
+        >div
+            display: flex
+            flex-direction: row
+            justify-content: space-between
+
+            >p
+                font-family: 'Roboto'
+                font-style: normal
+                font-weight: 400
+                font-size: 14px
+                line-height: 18px
+                text-transform: capitalize
+                color: #FFFFFF
+                padding-top: 590px
+                padding-left: 30px
+            
+            >p+p
+                font-family: "Roboto"
+                font-style: normal
+                font-weight: 400
+                font-size: 14px
+                line-height: 18px
+                text-transform: capitalize
+                color: black
+                padding-top: 500px
+                padding-left: 30px
+                padding-right: 68px
 
 
 
