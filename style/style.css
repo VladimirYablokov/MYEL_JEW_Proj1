@@ -76,7 +76,7 @@
 }
 .header-photos .header-photo {
   display: flex;
-  background-image: url("/Proj_1_MYEL_JEWELRY/media/header_photo2.png");
+  background-image: url("/proj_1_myel_jewelry/media/header_photo2.png");
   width: 485px;
   height: 630px;
   background-size: cover;
@@ -94,14 +94,14 @@
   padding-left: 30px;
 }
 .header-photos .header-photo1 {
-  background-image: url("/Proj_1_MYEL_JEWELRY/media/header_photo1.png");
+  background-image: url("/proj_1_myel_jewelry/media/header_photo1.png");
   width: 485px;
   height: 630px;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .header-photos .header-photo2 {
-  background-image: url("/Proj_1_MYEL_JEWELRY/media/header_photo.png");
+  background-image: url("/proj_1_myel_jewelry/media/header_photo.png");
   width: 485px;
   height: 630px;
   background-size: cover;
@@ -175,7 +175,7 @@
 .shirts .shirt {
   width: 50%;
   height: 936px;
-  background-image: url("/Proj_1_MYEL_JEWELRY/media/womantshirt.png");
+  background-image: url("/proj_1_myel_jewelry/media/womantshirt.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -188,7 +188,7 @@
   justify-content: space-between;
   width: 50%;
   height: 936px;
-  background-image: url("/Proj_1_MYEL_JEWELRY/media/tshirt.png");
+  background-image: url("/proj_1_myel_jewelry/media/tshirt.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -234,7 +234,7 @@
   flex-direction: row;
 }
 .browse-categories .gallery .gallery-img1 {
-  background-image: url("/Proj_1_MYEL_JEWELRY/media/gallery-photo1.png");
+  background-image: url("/Pproj_1_myel_jewelry/media/gallery-photo1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -254,7 +254,7 @@
   text-transform: capitalize;
 }
 .browse-categories .gallery .gallery-img2 {
-  background-image: url("/Proj_1_MYEL_JEWELRY/media/gallery-photo2.png");
+  background-image: url("/proj_1_myel_jewelry/media/gallery-photo2.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -262,7 +262,7 @@
   height: 609px;
 }
 .browse-categories .gallery .gallery-img3 {
-  background-image: url("/Proj_1_MYEL_JEWELRY/media/gallery-photo3.png");
+  background-image: url("/proj_1_myel_jewelry/media/gallery-photo3.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -289,7 +289,7 @@
   justify-content: space-between;
 }
 .books .book1 {
-  background-image: url("/Proj_1_MYEL_JEWELRY/media/book1.png");
+  background-image: url("/proj_1_myel_jewelry/media/book1.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -297,7 +297,7 @@
   width: 50%;
 }
 .books .book2 {
-  background-image: url("/Proj_1_MYEL_JEWELRY/media/book2.png");
+  background-image: url("/proj_1_myel_jewelry/media/book2.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
