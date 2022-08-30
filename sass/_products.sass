@@ -1,41 +1,48 @@
-.shirts
+.product_photo
     display: flex
-    
 
-    .shirt
+
+    .product1
         width: 50%
         height: 936px
-        background-image: url('../media/womantshirt.png')
+        background-image: url('../media/product1.png')
         background-size: cover
         background-repeat: no-repeat
         background-position: center
 
-    .shirt1
+        >p
+            font-style: normal
+            font-weight: 400
+            font-size: 18px
+            line-height: 22px
+            color: #000000
+            padding: 50px
+
+    .product2
+        width: 50%
+        height: 936px
+        background-image: url('../media/product2.png')
+        background-size: cover
+        background-repeat: no-repeat
+        background-position: center
         display: flex
         flex-direction: column
         flex-wrap: wrap
         align-content: flex-start
         justify-content: space-between
-        width: 50%
-        height: 936px
-        background-image: url('../media/tshirt.png')
-        background-size: cover
-        background-repeat: no-repeat
-        background-position: center
 
-        .shirt-name
+        >p
             font-style: normal
             font-weight: 400
-            font-size: 44px
+            font-size: 48px
             line-height: 60px
             color: #000000
             padding: 50px
+            max-width: 500px
 
-        .shirt-descr
+        >p+p
             font-style: normal
             font-weight: 400
             font-size: 14px
             line-height: 18px
             color: #000000
-            padding: 50px
-
